@@ -1,0 +1,9 @@
+Building CryptoCaps
+
+See doc/readme-qt.rst for instructions on building CryptoCaps-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CryptoCaps.
+
+See doc/build-*.txt for instructions on building CryptoCapsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CryptoCaps.
