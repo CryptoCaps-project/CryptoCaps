@@ -4,7 +4,7 @@ CryptoCaps integration/staging tree
 
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 CryptoCaps Developers
+Copyright (c) 2020 CryptoCaps Developers
 
 What is CryptoCaps?
 ----------------
